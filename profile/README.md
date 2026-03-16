@@ -56,6 +56,6 @@ Se você está aqui para aprender ou colaborar, sinta-se em casa.
 Caso queira entrar na organização e trocar uma ideia sobre arquitetura de software ou sugerir um novo tópico de estudo:
 
 * **GitHub:** [@HelioASjunior](https://github.com/HelioASjunior)
-* **LinkedIn:** [Seu Nome](https://www.linkedin.com/in/heliojunior1218/)
+* **LinkedIn:** [Hélio](https://www.linkedin.com/in/heliojunior1218/)
 
 ---
