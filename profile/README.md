@@ -1,8 +1,3 @@
-Entendido! Se o foco é quem está aprendendo, o README precisa ser menos "corporativo" e mais acolhedor e instrutivo. Ele deve servir como um mapa para quem quer evoluir junto com a organização.
-
-Aqui está uma versão focada em comunidade, estudo e mentoria coletiva:
-
-Markdown
 # 🧬 EvoDevLab
 
 > **Transformando curiosidade em código sólido.**
